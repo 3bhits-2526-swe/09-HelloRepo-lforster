@@ -10,7 +10,7 @@ Etwicklungsplatform: Windows 11
 
 habe 1x clone ausgeführt und pushe daten zurück.
 
-
+Jetz Möchte ich die Onlineänerung local haben.
 
 Lessons learnd:
 
