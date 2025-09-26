@@ -6,6 +6,13 @@ Kurze Beschreibung des Projektes: Einführung in Github mit git
 
 Etwicklungsplatform: Windows 11
 
+
+
+habe 1x clone ausgeführt und pushe daten zurück.
+
+
+
 Lessons learnd:
-+ Anlegen GitRepo mit gitignore und readme
-+ Basic Workflow git <-> Github
+
+* Anlegen GitRepo mit gitignore und readme
+* Basic Workflow git <-> Github
